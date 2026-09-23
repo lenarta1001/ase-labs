@@ -1,4 +1,4 @@
-![example workflow](https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg)
+[![Continuous Integration](https://github.com/lenarta1001/ase-labs/actions/workflows/ci.yml/badge.svg)](https://github.com/lenarta1001/ase-labs/actions/workflows/ci.yml)
 
 # Estimating Text Similarity by Shingling
 
